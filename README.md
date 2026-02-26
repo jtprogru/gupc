@@ -9,6 +9,7 @@ It can output the result as plain text or as a JSON object.
 
 ---
 
+<!-- trigger CI -->
 ## Table of Contents
 1. [Overview](#overview)
 2. [Installation](#installation)
