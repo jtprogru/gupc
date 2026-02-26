@@ -10,8 +10,8 @@ permissions:
   contents: read
 
 env:
-  GO_VERSION: stable
-  GOLANGCI_LINT_VERSION: v2.1
+  GO_VERSION: 1.25
+  GOLANGCI_LINT_VERSION: v1.58.0
   TASKFILE_VERSION: 3.x
 
 jobs:
